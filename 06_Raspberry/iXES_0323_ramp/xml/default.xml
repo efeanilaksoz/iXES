@@ -1,0 +1,13 @@
+<SebastianTobler>
+	<Default>
+		<name>Sebastian</name>
+		<surname>Tobler</surname>
+		<gender>1</gender>
+		<birthday>01.01.1980</birthday>
+		<injury>SCI</injury>
+		<amp>[40, 40, 40, 40, 40, 40, 40, 40]</amp>
+		<plsw>[200, 200, 200, 200, 200, 200, 200, 200]</plsw>
+		<angle>[290, 320, 0, 0, 300, 320, 0, 0, 110, 140, 0, 0, 279, 299, 0, 0]</angle>
+		<slope>[20, 20, 20, 20, 20, 20, 20, 20]</slope>
+	</Default>	
+</SebastianTobler>
