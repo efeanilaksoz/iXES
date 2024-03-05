@@ -1,0 +1,18 @@
+2023-07-04 17:34:44,569 - INFO - Starting sensor 8AC69371-26D9-2FC5-9E7F-C2F6369161C5 recording
+2023-07-04 17:34:44,687 - INFO - Starting sensor AADF9E9C-31CC-2E21-16D4-6ACBB2951E11 recording
+2023-07-04 17:34:44,747 - INFO - Starting sensor 80498D0E-9F8D-8533-A2C2-CD82194E173E recording
+2023-07-04 17:34:44,811 - INFO - Starting sensor 0C2F83F5-6F09-6872-01DB-157A3F8344DE recording
+2023-07-04 17:34:47,959 - INFO - Sensor ll is connected
+2023-07-04 17:34:48,031 - INFO - Sensor la is connected
+2023-07-04 17:34:48,076 - INFO - Sensor ll begins notify at 3669 ms
+2023-07-04 17:34:48,151 - INFO - Sensor la begins notify at 3743 ms
+2023-07-04 17:34:48,283 - INFO - Sensor rl is connected
+2023-07-04 17:34:48,433 - INFO - Sensor rl begins notify at 4026 ms
+2023-07-04 17:34:49,726 - INFO - Sensor ra is connected
+2023-07-04 17:34:49,888 - INFO - Sensor ra begins notify at 5481 ms
+2023-07-04 17:50:32,807 - WARNING - Sensor la got disconnected!
+2023-07-04 17:50:37,886 - ERROR - Cannot (re)connect to sensor la. Retrying...
+2023-07-04 17:50:40,070 - INFO - Sensor la is connected
+2023-07-04 18:05:40,133 - WARNING - Sensor la got disconnected!
+2023-07-04 18:05:45,242 - ERROR - Cannot (re)connect to sensor la. Retrying...
+2023-07-04 18:05:48,272 - INFO - Sensor la is connected

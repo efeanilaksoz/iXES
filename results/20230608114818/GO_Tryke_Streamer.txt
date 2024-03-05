@@ -1,0 +1,12 @@
+2023-06-08 11:48:18,657 - INFO - Starting sensor 8AC69371-26D9-2FC5-9E7F-C2F6369161C5 recording
+2023-06-08 11:48:18,848 - INFO - Starting sensor AADF9E9C-31CC-2E21-16D4-6ACBB2951E11 recording
+2023-06-08 11:48:18,913 - INFO - Starting sensor 80498D0E-9F8D-8533-A2C2-CD82194E173E recording
+2023-06-08 11:48:18,975 - INFO - Starting sensor 0C2F83F5-6F09-6872-01DB-157A3F8344DE recording
+2023-06-08 11:48:23,935 - INFO - Sensor ll is connected
+2023-06-08 11:48:24,083 - INFO - Sensor ll begins notify at 5575 ms
+2023-06-08 11:48:24,469 - INFO - Sensor rl is connected
+2023-06-08 11:48:24,588 - INFO - Sensor rl begins notify at 6080 ms
+2023-06-08 11:48:25,253 - INFO - Sensor ra is connected
+2023-06-08 11:48:25,341 - INFO - Sensor la is connected
+2023-06-08 11:48:25,459 - INFO - Sensor la begins notify at 6951 ms
+2023-06-08 11:48:25,491 - INFO - Sensor ra begins notify at 6983 ms
